@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import '../styles/style.css';
+// import React, { useState } from 'react';
+// import '../styles/style.css';
 
 // import only for e-mail
 import { validateEmail } from "../../utils/helpers";

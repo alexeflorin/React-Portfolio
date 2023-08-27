@@ -1,6 +1,5 @@
-import React from "react";
-import '../styles/style.css';
-import profilePicture from "../assets/profile_picture.png"
+// import '../styles/style.css';
+import profilePicture from "../../assets/profile_picture.png"
 
 
 function About () {
@@ -11,7 +10,7 @@ function About () {
 		</div>
 		<div>
 			<img src={profilePicture}  alt = "profile"
-			style={{width:"75%"}}/>
+			style={{width:"15%"}}/>
 		</div>
 
 			<div>
